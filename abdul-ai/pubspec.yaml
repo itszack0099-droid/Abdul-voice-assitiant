@@ -13,7 +13,7 @@ dependencies:
   permission_handler: ^11.0.1
   flutter_phone_state: ^1.0.2
   flutter_background_service: ^5.0.5
-  flutter_overlay_window: ^0.4.6
+  flutter_overlay_window: ^0.4.0
   http: ^1.1.0
 
 dev_dependencies:
