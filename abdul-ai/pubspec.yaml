@@ -11,9 +11,9 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
   permission_handler: ^11.0.1
-  flutter_phone_state: ^1.0.2
+  flutter_phone_state: any
   flutter_background_service: ^5.0.5
-  flutter_overlay_window: ^0.4.0
+  flutter_overlay_window: ^0.4.4
   http: ^1.1.0
 
 dev_dependencies:
